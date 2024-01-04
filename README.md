@@ -1,7 +1,10 @@
-# Quizz com JS Puro
-Este é um projeto simples de um Quizz desenvolvido com HTML, CSS e JavaScript puro. O Quizz é uma aplicação interativa que desafia os usuários com perguntas.
+## Quizz com JS Puro 🧠🔍
 
-## Tecnologias Utilizadas
+## 💻 Projeto
+Este é um projeto de um Quizz desenvolvido com HTML, CSS e JavaScript puro. O Quizz é uma aplicação interativa que desafia os usuários com perguntas.
+
+## 🚀 Tecnologias
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
